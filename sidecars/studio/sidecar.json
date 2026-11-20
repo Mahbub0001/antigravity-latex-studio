@@ -1,0 +1,20 @@
+{
+  "command": "python",
+  "args": [
+    "skills/latex-studio/scripts/server.py"
+  ],
+  "description": "AI-assisted LaTeX workspace with live A4 PDF preview, 1% zoom, and Overleaf export.",
+  "display_name": "LaTeX Studio",
+  "has_web_ui": true,
+  "restart_policy": "always",
+  "ui_config": {
+    "display_name": "LaTeX Studio",
+    "views": [
+      {
+        "entrypoint": "SIDECAR_UI_ENTRYPOINT_AUX_PANE",
+        "path": "/",
+        "title": "LaTeX Studio"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "latex-studio": {
+      "command": "python",
+      "args": [
+        "skills/latex-studio/scripts/mcp_server.py"
+      ]
+    }
+  }
+}

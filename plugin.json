@@ -1,0 +1,28 @@
+{
+  "name": "latex-studio",
+  "displayName": "LaTeX Studio (Overleaf & Prism Companion)",
+  "version": "1.0.0",
+  "description": "AI-assisted LaTeX editor, real-time Tectonic XeTeX compilation, live A4 PDF preview, and clean Overleaf-ready ZIP export.",
+  "author": {
+    "name": "Mahbub Ul Alam Bhuiyan (Mahbub0001)",
+    "url": "https://github.com/Mahbub0001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mahbub0001/antigravity-latex-studio"
+  },
+  "keywords": [
+    "latex",
+    "overleaf",
+    "prism",
+    "paper",
+    "academic",
+    "pdf",
+    "compilation",
+    "xetex",
+    "tectonic"
+  ],
+  "skills": [
+    "./skills"
+  ]
+}
